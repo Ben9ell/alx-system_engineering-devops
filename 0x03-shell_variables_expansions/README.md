@@ -1,1 +1,1 @@
-scripting 3-paths
+scripting 4-global_variables
