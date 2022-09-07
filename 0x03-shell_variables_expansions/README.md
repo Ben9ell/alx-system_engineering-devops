@@ -1,1 +1,1 @@
-scripting 5-local_variables
+scripting 6-create_local_variable
