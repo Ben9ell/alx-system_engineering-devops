@@ -1,1 +1,1 @@
-scripting 17-hidethisword
+scripting 18-letteronly
