@@ -1,1 +1,1 @@
-scripting 8-true_knowledge
+scripting 9-divide_and_rule
