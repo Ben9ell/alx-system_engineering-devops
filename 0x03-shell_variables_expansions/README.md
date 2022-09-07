@@ -1,1 +1,1 @@
-scripting 12-combinations
+scripting 0-alias
