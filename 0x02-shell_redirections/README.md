@@ -1,1 +1,1 @@
-scripting 18-letteronly
+scripting 19-AZ
