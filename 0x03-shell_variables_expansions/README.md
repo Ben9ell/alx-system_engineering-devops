@@ -1,1 +1,1 @@
-scripting 0-alias
+scripting 1-hello_you

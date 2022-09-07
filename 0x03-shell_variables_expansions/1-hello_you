@@ -1,0 +1,1 @@
+#!/bin/bashnecho hello $USER
