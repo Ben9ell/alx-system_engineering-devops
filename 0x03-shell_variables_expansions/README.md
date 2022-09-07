@@ -1,1 +1,1 @@
-scripting 11-binary_to_decimal
+scripting 12-combinations
