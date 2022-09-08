@@ -1,1 +1,1 @@
-scripting 100-empty_casks
+scripting 101-gifs
