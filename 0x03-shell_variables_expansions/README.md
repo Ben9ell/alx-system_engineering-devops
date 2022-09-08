@@ -1,1 +1,1 @@
-scripting 1-hello_you
+scripting 8-true_knowledge
