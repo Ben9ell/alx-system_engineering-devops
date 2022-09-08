@@ -1,1 +1,1 @@
-scripting 0-alias
+scripting 2-path
