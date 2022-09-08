@@ -1,1 +1,1 @@
-scripting 2-path
+scripting 12-combinations
